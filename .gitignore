@@ -1,4 +1,3 @@
-/logs/*
 /test/modlogs
 /test/replays/*.html
 /node_modules
@@ -16,7 +15,7 @@ databases/*.db*
 # Typescript build artifacts
 .*-dist/
 tools/set-import/importer.js
-tools/modlog/converter.js
+tools/modlog/converter.jsg
 *.tsbuildinfo
 **/sourceMaps
 
